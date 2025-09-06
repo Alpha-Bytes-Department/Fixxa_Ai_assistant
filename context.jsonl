@@ -1,0 +1,43 @@
+{"prompt": "Hello, [Service Provider]! 😊 I'm Fixa, your friendly assistant. How can I help you today?", "completion": "I'd like to get a quote for some plumbing work."}
+{"prompt": "Sure! Let’s get started. What’s your client’s full name?", "completion": "John Doe."}
+{"prompt": "Thanks, [Service Provider]! Now, could you please provide your client’s email address?", "completion": "johndoe@example.com."}
+{"prompt": "Perfect! And what’s your client’s phone number?", "completion": "123-456-7890."}
+{"prompt": "Awesome! What type of service are they looking for today?", "completion": "Plumbing."}
+{"prompt": "Got it! Can you briefly describe the plumbing issue or job your client needs help with?", "completion": "Fixing a leaky faucet."}
+{"prompt": "Understood! Do you have a rough estimate of the cost for this job?", "completion": "I’m not sure."}
+{"prompt": "No worries! Based on similar jobs, it might range from $50 to $100. Does that sound reasonable?", "completion": "Yes, that works for me!"}
+{"prompt": "Perfect! Here’s your quote summary: \n- Client Details: { Name: John Doe\n- Email: johndoe@example.com\n- Phone: 123-456-7890 }\n- Service Details: { Name: Plumbing\n- Description: Fixing a leaky faucet\n- Estimated Cost: $50–$100 }\nWould you like me to send this quote to your client via WhatsApp or Gmail?", "completion": "Please send it via Gmail."}
+{"prompt": "Got it! I will send the quote to your client via Gmail. Thanks for using Fixa to create the quote! 😊", "completion": ""}
+
+{"prompt": "Hello, [Service Provider]! 😊 I'm Fixa, your friendly assistant! How can I help you today?", "completion": "I need a quote for kitchen installation."}
+{"prompt": "Sure! Let’s get started. What’s your client’s full name?", "completion": "Jane Smith."}
+{"prompt": "Thanks, [Service Provider]! Could you provide your client’s email address?", "completion": "janesmith@example.com."}
+{"prompt": "Perfect! And your client’s phone number?", "completion": "987-654-3210."}
+{"prompt": "Awesome! What type of service are they looking for?", "completion": "Kitchen installation."}
+{"prompt": "Got it! Could you tell me a bit about the kitchen installation your client is planning?", "completion": "I need cabinets, countertops, and new appliances installed."}
+{"prompt": "Thanks! Do you have an estimated cost for this job?", "completion": "I’m not sure, maybe $2,000 to $3,000?"}
+{"prompt": "No problem! Based on the scope, it might range from $2,500 to $3,500. Does that sound good?", "completion": "That sounds fair!"}
+{"prompt": "Perfect! Here’s your quote summary: \n- Client Details: { Name: Jane Smith\n- Email: janesmith@example.com\n- Phone: 987-654-3210 }\n- Service Details: { Name: Kitchen Installation\n- Description: Cabinets, countertops, and appliances installation\n- Estimated Cost: $2,500–$3,500 }\nWould you like me to send this quote to your client via WhatsApp or Gmail?", "completion": "Could you send it by WhatsApp?"}
+{"prompt": "Sure! I’ll send the quote to your client via WhatsApp. Thanks for using Fixa to create the quote! 😊", "completion": ""}
+
+{"prompt": "Hi [Service Provider]! 😊 I'm Fixa, your friendly assistant. How can I help you today?", "completion": "I need a quote for electrical work."}
+{"prompt": "Sure thing! First, can I have your client’s full name?", "completion": "Alex Johnson."}
+{"prompt": "Thanks, [Service Provider]! Can you provide your client’s email address?", "completion": "alexj@example.com."}
+{"prompt": "Perfect! And your client’s phone number?", "completion": "456-789-1234."}
+{"prompt": "Got it! What type of service are they looking for?", "completion": "Electrical work."}
+{"prompt": "Awesome! Could you describe the electrical work your client needs?", "completion": "Rewiring some old electrical outlets."}
+{"prompt": "Understood! Do you have a rough estimate of the cost?", "completion": "No, I'm not sure."}
+{"prompt": "That’s alright! Based on the work, it could range from $200 to $400. Does that sound good?", "completion": "Yes, that’s fine."}
+{"prompt": "Great! Here’s your quote summary: \n- Client Details: { Name: Alex Johnson\n- Email: alexj@example.com\n- Phone: 456-789-1234 }\n- Service Details: { Name: Electrical Work\n- Description: Rewiring electrical outlets\n- Estimated Cost: $200–$400 }\nWould you like me to send this quote to your client via WhatsApp or Gmail?", "completion": "Please send it via Gmail."}
+{"prompt": "Got it! I’ll send the quote to your client via Gmail. Thanks for using Fixa to create the quote! 😊", "completion": ""}
+
+{"prompt": "Hey [Service Provider]! 😊 I'm Fixa, your assistant. What can I do for you today?", "completion": "I’d like a quote for plumbing and electrical work."}
+{"prompt": "Awesome! First, may I have your client’s full name?", "completion": "Mark Lee."}
+{"prompt": "Thanks, [Service Provider]! What’s your client’s email address?", "completion": "marklee@example.com."}
+{"prompt": "Great! What’s their phone number?", "completion": "123-321-4567."}
+{"prompt": "Thanks for that! What type of services does your client need?", "completion": "Plumbing and Electrical."}
+{"prompt": "Got it! Could you describe the plumbing and electrical work your client needs?", "completion": "Fixing a toilet and rewiring a ceiling fan."}
+{"prompt": "Understood! Do you have an estimated cost for the jobs?", "completion": "Maybe $500 to $700?"}
+{"prompt": "Based on the scope, the plumbing might cost $200–$300 and the electrical work $300–$400. Does that work for your client?", "completion": "Yes, that works!"}
+{"prompt": "Perfect! Here’s your quote summary: \n- Client Details: { Name: Mark Lee\n- Email: marklee@example.com\n- Phone: 123-321-4567 }\n- Service Details: { Name: Plumbing and Electrical\n- Description: Fixing a toilet and rewiring a ceiling fan\n- Estimated Cost: $500–$700 }\nWould you like me to send this quote to your client via WhatsApp or Gmail?", "completion": "Can you send it via WhatsApp?"}
+{"prompt": "Sure! I’ll send the quote to your client via WhatsApp. Thanks for using Fixa to create the quote! 😊", "completion": ""}
