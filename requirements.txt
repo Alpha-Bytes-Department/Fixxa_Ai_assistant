@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+openai
+sounddevice
+wavio
+numpy
+python-dotenv
+pydantic[email]
+requests
